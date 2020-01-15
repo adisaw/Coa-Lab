@@ -1,0 +1,6 @@
+NET "inbit" LOC="p191";
+NET "reset" LOC="p190";
+NET "out" LOC="p149";
+NET "clock" LOC="p76";
+NET "clock" CLOCK_DEDICATED_ROUTE = FALSE;
+
